@@ -52,3 +52,12 @@ next-env.d.ts
 
 # logs
 logs.txt
+
+# claude
+.claude/
+
+# playwright
+playwright-report/
+test-results/
+.playwright/
+.playwright-mcp/
